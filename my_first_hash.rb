@@ -1,5 +1,7 @@
 def my_hash
-  "my_name" => "Andy"
+  kingdom_hearts = {
+    "main_character" => "Sora"
+  }
 end
 
 
